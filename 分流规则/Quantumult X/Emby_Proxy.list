@@ -1,1 +1,45 @@
+# ----------------------------- #
+# emby代理
+# 更新时间：2025-05-20
+# ----------------------------- #
 
+# nijigem(二次元)
+HOST-SUFFIX,nijigem.by
+
+# PiliPili
+HOST-SUFFIX,pilipiliultra.com
+
+# 卷毛鼠
+HOST-SUFFIX,jmsooo.com
+HOST,nano.jmsuper.com
+
+# ZDZ(Terminus)
+HOST-SUFFIX,emby.wtf
+HOST-SUFFIX,pub1.emby.wtf
+HOST-SUFFIX,pub2.emby.wtf
+HOST-SUFFIX,pub3.emby.wtf
+HOST-SUFFIX,pub1.term.wtf
+HOST-SUFFIX,pub2.term.wtf
+HOST-SUFFIX,pub3.termwtf
+
+# misty
+HOST-SUFFIX,misty.cx
+
+# 探花
+DOMAIN-SUFFIX,tanhuatv.site
+
+# Pronemby
+IP-CIDR,195.201.86.86/32
+
+# 纸片人
+HOST-SUFFIX,9521732.xyz
+HOST-SUFFIX,embyplus.org
+
+# feiyue
+HOST-SUFFIX,sfcj.org
+
+# emby-prpr
+HOST-SUFFIX,emby.prprcloud.com
+HOST-SUFFIX,neo.iflya321.com
+
+# ----------------------------- #
