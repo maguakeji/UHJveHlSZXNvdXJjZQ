@@ -1,0 +1,41 @@
+#======================================#
+# emby直连
+# 更新时间：2025-07-21
+#======================================#
+
+# Facmata
+HOST-SUFFIX,matrix.313445.xyz
+HOST-SUFFIX,restrict.313445.xyz
+
+# CC_Emby
+HOST,cc.coemn.com
+HOST-SUFFIX,cc.embycc.link
+HOST-SUFFIX,carryz.net
+
+# paach
+HOST-SUFFIX,embymv.link
+IP-CIDR,193.123.232.141/32
+
+# PiliPili
+HOST-SUFFIX,pilipiliultra.com
+
+# GuGu Emby
+HOST,node3.guguemby.site
+HOST,node2.guguemby.site
+
+# Nanflix
+HOST-SUFFIX,nanflix.net
+
+# 起点站
+HOST-SUFFIX,free.28.al
+
+# 见手青
+HOST-SUFFIX,jsq.vban.xyz
+
+# nya
+HOST-SUFFIX,ap-cn01.emby.bangumi.ca
+
+# zoxfree
+HOST,zoxfree.3767483.xyz
+
+#======================================#
