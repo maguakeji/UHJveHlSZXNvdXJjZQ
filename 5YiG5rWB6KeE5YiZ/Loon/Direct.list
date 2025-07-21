@@ -26,12 +26,6 @@ HOST,node2.guguemby.site
 # Nanflix
 DOMAIN-SUFFIX,nanflix.net
 
-# ZDZ(Terminus)
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
-
 # 起点站
 DOMAIN-SUFFIX,free.28.al
 
