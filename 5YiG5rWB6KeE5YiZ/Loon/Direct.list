@@ -20,8 +20,7 @@ IP-CIDR,193.123.232.141/32
 DOMAIN-SUFFIX,pilipiliultra.com
 
 # GuGu Emby
-HOST,node3.guguemby.site
-HOST,node2.guguemby.site
+DOMAIN-SUFFIX,guguemby.site
 
 # Nanflix
 DOMAIN-SUFFIX,nanflix.net
