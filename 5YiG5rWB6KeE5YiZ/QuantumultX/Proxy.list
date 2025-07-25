@@ -44,7 +44,7 @@ HOST-SUFFIX,pub3.emby.wtf
 HOST-SUFFIX,misty.cx
 
 # 探花
-DOMAIN-SUFFIX,tanhuatv.site
+HOST-SUFFIX,tanhuatv.site
 
 # Pronemby
 IP-CIDR,195.201.86.86/32
