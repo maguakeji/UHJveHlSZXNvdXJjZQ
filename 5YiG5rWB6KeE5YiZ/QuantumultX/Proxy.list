@@ -43,9 +43,6 @@ HOST-SUFFIX,pub3.emby.wtf
 # misty
 HOST-SUFFIX,misty.cx
 
-# SNTP
-DOMAIN-SUFFIX,lite.cn2gias.uk
-
 # 探花
 DOMAIN-SUFFIX,tanhuatv.site
 
