@@ -57,6 +57,9 @@ HOST-SUFFIX,9521732.xyz
 HOST-SUFFIX,embyplus.org
 HOST-SUFFIX.029902.xyz
 
+# SNTP
+HOST-SUFFIX,lite.cn2gias.uk
+
 # feiyue
 HOST-SUFFIX,sfcj.org
 
