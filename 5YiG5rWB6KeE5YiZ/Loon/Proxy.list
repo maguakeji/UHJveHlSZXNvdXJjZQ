@@ -46,9 +46,6 @@ DOMAIN-SUFFIX,misty.cx
 # 起点站
 DOMAIN-SUFFIX,free.28.al
 
-# 探花
-DOMAIN-SUFFIX,tanhuatv.site
-
 # Pronemby
 IP-CIDR,195.201.86.86/32
 
@@ -61,7 +58,8 @@ DOMAIN-SUFFIX.029902.xyz
 DOMAIN-SUFFIX,lite.cn2gias.uk
 
 # feiyue
-DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,cf.sfcj.org
+DOMAIN-SUFFIX,cdn.sfcj.org
 
 # emby-prpr
 DOMAIN-SUFFIX,emby.prprcloud.com
