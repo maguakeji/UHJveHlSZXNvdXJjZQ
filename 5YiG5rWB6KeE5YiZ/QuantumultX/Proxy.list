@@ -46,9 +46,6 @@ HOST-SUFFIX,misty.cx
 # 起点站
 HOST-SUFFIX,free.28.al
 
-# 探花
-HOST-SUFFIX,tanhuatv.site
-
 # Pronemby
 IP-CIDR,195.201.86.86/32
 
@@ -61,7 +58,8 @@ HOST-SUFFIX.029902.xyz
 HOST-SUFFIX,lite.cn2gias.uk
 
 # feiyue
-HOST-SUFFIX,sfcj.org
+HOST-SUFFIX,cf.sfcj.org
+HOST-SUFFIX,cdn.sfcj.org
 
 # emby-prpr
 HOST-SUFFIX,emby.prprcloud.com
