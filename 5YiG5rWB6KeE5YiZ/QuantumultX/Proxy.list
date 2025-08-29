@@ -51,6 +51,7 @@ IP-CIDR,195.201.86.86/32
 
 # 牢大
 HOST-SUFFIX,kessoku-bando.biliblili.uk
+HOST-SUFFIX,streaming.biliblili.uk
 
 # 纸片人
 HOST-SUFFIX,9521732.xyz
