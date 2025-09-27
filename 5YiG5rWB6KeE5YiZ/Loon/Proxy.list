@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,free.28.al
 # Pronemby
 IP-CIDR,195.201.86.86/32
 
+# HOHAI
+DOMAIN-SUFFIX,emby.hohai.eu.org
+
 # HKA
 DOMAIN-SUFFIX,hka-emby.aliz.work
 
