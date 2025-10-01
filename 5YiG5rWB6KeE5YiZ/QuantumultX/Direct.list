@@ -1,6 +1,6 @@
 #======================================#
 # emby直连
-# 更新时间：2025-07-21
+# 更新时间：2025-10-01
 #======================================#
 
 # Facmata
@@ -24,6 +24,9 @@ HOST-SUFFIX,guguemby.site
 
 # Nanflix
 HOST-SUFFIX,nanflix.net
+
+# 月饼
+HOST-SUFFIX,a.emby.my
 
 # 见手青
 HOST-SUFFIX,jsq.vban.xyz
