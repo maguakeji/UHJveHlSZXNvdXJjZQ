@@ -1,6 +1,6 @@
 #======================================#
 # emby代理
-# 更新时间：2025-08-29
+# 更新时间：2025-10-01
 #======================================#
 
 #======================================#
@@ -57,6 +57,9 @@ HOST-SUFFIX,hka-emby.aliz.work
 
 # 105
 HOST-SUFFIX,ciallo.party
+
+# 月饼
+HOST-SUFFIX,emby.my
 
 # 牢大
 HOST-SUFFIX,kessoku-bando.biliblili.uk
