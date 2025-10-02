@@ -36,9 +36,6 @@ HOST,nano.jmsuper.com
 
 # ZDZ(Terminus)
 HOST-SUFFIX,emby.wtf
-HOST-SUFFIX,pub1.emby.wtf
-HOST-SUFFIX,pub2.emby.wtf
-HOST-SUFFIX,pub3.emby.wtf
 
 # misty
 HOST-SUFFIX,misty.cx
@@ -62,8 +59,7 @@ HOST-SUFFIX,ciallo.party
 HOST-SUFFIX,emby.my
 
 # 牢大
-HOST-SUFFIX,kessoku-bando.biliblili.uk
-HOST-SUFFIX,streaming.biliblili.uk
+HOST-SUFFIX,biliblili.uk
 
 # 纸片人
 HOST-SUFFIX,9521732.xyz
@@ -74,8 +70,7 @@ HOST-SUFFIX.029902.xyz
 HOST-SUFFIX,lite.cn2gias.uk
 
 # feiyue
-HOST-SUFFIX,cf.sfcj.org
-HOST-SUFFIX,cdn.sfcj.org
+HOST-SUFFIX,sfcj.org
 
 # emby-prpr
 HOST-SUFFIX,emby.prprcloud.com
