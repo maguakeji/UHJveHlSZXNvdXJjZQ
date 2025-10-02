@@ -81,4 +81,7 @@ DOMAIN-SUFFIX,cdn.sfcj.org
 DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,neo.iflya321.com
 
+# MICU
+DOMAIN-SUFFIX,media.micu.hk
+
 #======================================#
