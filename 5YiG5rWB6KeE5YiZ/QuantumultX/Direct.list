@@ -34,6 +34,10 @@ HOST-SUFFIX,jsq.vban.xyz
 # nya
 HOST-SUFFIX,ap-cn01.emby.bangumi.ca
 
+# MICU
+DOMAIN-SUFFIX,tv.micu.hk
+DOMAIN-SUFFIX,tv1.micu.hk
+
 # zoxfree
 HOST,zoxfree.3767483.xyz
 
