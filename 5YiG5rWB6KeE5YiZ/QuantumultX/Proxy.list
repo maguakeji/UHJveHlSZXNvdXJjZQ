@@ -81,4 +81,7 @@ HOST-SUFFIX,cdn.sfcj.org
 HOST-SUFFIX,emby.prprcloud.com
 HOST-SUFFIX,neo.iflya321.com
 
+# MICU
+HOST-SUFFIX,media.micu.hk
+
 #======================================#
