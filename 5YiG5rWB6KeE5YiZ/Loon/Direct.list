@@ -4,15 +4,14 @@
 #======================================#
 
 # Facmata
-DOMAIN-SUFFIX,matrix.313445.xyz
-DOMAIN-SUFFIX,restrict.313445.xyz
+DOMAIN-SUFFIX,313445.xyz
 
 # CC_Emby
 DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,cc.embycc.link
 DOMAIN-SUFFIX,carryz.net
 
-# paach
+# peach
 DOMAIN-SUFFIX,embymv.link
 IP-CIDR,193.123.232.141/32
 
@@ -35,8 +34,7 @@ DOMAIN-SUFFIX,jsq.vban.xyz
 DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
 
 # MICU
-DOMAIN-SUFFIX,tv.micu.hk
-DOMAIN-SUFFIX,tv1.micu.hk
+DOMAIN-SUFFIX,micu.hk
 
 # zoxfree
 HOST,zoxfree.3767483.xyz
