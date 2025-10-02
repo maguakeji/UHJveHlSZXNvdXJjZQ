@@ -36,9 +36,6 @@ DOMAIN,nano.jmsuper.com
 
 # ZDZ(Terminus)
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
 
 # misty
 DOMAIN-SUFFIX,misty.cx
@@ -62,8 +59,7 @@ DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,emby.my
 
 # 牢大
-DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
-DOMAIN-SUFFIX,streaming.biliblili.uk
+DOMAIN-SUFFIX,biliblili.uk
 
 # 纸片人
 DOMAIN-SUFFIX,9521732.xyz
@@ -74,8 +70,7 @@ DOMAIN-SUFFIX.029902.xyz
 DOMAIN-SUFFIX,lite.cn2gias.uk
 
 # feiyue
-DOMAIN-SUFFIX,cf.sfcj.org
-DOMAIN-SUFFIX,cdn.sfcj.org
+DOMAIN-SUFFIX,sfcj.org
 
 # emby-prpr
 DOMAIN-SUFFIX,emby.prprcloud.com
