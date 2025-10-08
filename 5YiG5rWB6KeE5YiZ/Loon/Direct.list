@@ -30,6 +30,10 @@ DOMAIN-SUFFIX,a.emby.my
 # 见手青
 DOMAIN-SUFFIX,jsq.vban.xyz
 
+# 琴鸟
+DOMAIN-SUFFIX,cdn.lyrebirdemby
+DOMAIN-SUFFIX,cdn.2580852.xyz
+
 # nya
 DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
 
