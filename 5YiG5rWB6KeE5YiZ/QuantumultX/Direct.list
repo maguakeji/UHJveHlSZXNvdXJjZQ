@@ -32,8 +32,8 @@ HOST-SUFFIX,a.emby.my
 HOST-SUFFIX,jsq.vban.xyz
 
 # 琴鸟
-HOST-SUFFIX,cdn.lyrebirdemby
-HOST-SUFFIX,cdn.2580852.xyz
+DOMAIN-SUFFIX,cdn.lyrebirdemby.com
+DOMAIN-SUFFIX,cdn.2580852.xyz
 
 # nya
 HOST-SUFFIX,ap-cn01.emby.bangumi.ca
