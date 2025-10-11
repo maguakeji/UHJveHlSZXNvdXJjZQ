@@ -30,6 +30,10 @@ HOST-SUFFIX,emby.moe
 HOST-SUFFIX,xxlb.net
 HOST-SUFFIX,niceduck.lol
 
+# paach
+HOST-SUFFIX,embymv.link
+IP-CIDR,193.123.232.141/32
+
 # 卷毛鼠
 HOST-SUFFIX,jmsooo.com
 HOST,nano.jmsuper.com
