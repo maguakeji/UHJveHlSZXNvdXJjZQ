@@ -12,10 +12,6 @@ HOST,cc.coemn.com
 HOST-SUFFIX,cc.embycc.link
 HOST-SUFFIX,carryz.net
 
-# paach
-HOST-SUFFIX,embymv.link
-IP-CIDR,193.123.232.141/32
-
 # PiliPili
 HOST-SUFFIX,pilipiliultra.com
 
