@@ -30,6 +30,10 @@ DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xxlb.net
 DOMAIN-SUFFIX,niceduck.lol
 
+# peach
+DOMAIN-SUFFIX,embymv.link
+IP-CIDR,193.123.232.141/32
+
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN,nano.jmsuper.com
