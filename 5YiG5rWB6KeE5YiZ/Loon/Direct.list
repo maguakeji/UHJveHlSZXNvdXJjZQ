@@ -11,10 +11,6 @@ DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,cc.embycc.link
 DOMAIN-SUFFIX,carryz.net
 
-# peach
-DOMAIN-SUFFIX,embymv.link
-IP-CIDR,193.123.232.141/32
-
 # PiliPili
 DOMAIN-SUFFIX,pilipiliultra.com
 
