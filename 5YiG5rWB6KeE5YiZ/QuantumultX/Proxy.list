@@ -1,26 +1,6 @@
 #======================================#
 # emby代理
-# 更新时间：2025-10-01
-#======================================#
-
-#======================================#
-# 音乐服
-# 音海拾贝
-HOST-SUFFIX,yinhai.aiinyue.com
-
-# 未响
-HOST-SUFFIX,music.mefun.org
-
-# ikun
-HOST-SUFFIX,diaojinping.de
-
-# 鹅皇
-HOST-SUFFIX,emusica.91bp.dpdns.org
-HOST-SUFFIX,emusica.dhyy.eu.org
-#======================================#
-
-# nijigem(二次元)
-HOST-SUFFIX,nijigem.by
+# 更新时间：2025-10-12
 
 # 垃圾影音(1111)
 HOST-SUFFIX,xmsl.org
@@ -34,21 +14,30 @@ HOST-SUFFIX,niceduck.lol
 HOST-SUFFIX,embymv.link
 IP-CIDR,193.123.232.141/32
 
-# 卷毛鼠
-HOST-SUFFIX,jmsooo.com
-HOST,nano.jmsuper.com
+# 月饼
+HOST-SUFFIX,emby.my
 
-# ZDZ(Terminus)
-HOST-SUFFIX,emby.wtf
+# SNTP
+HOST-SUFFIX,lite.cn2gias.uk
 
-# misty
-HOST-SUFFIX,misty.cx
+# 见手青
+HOST-SUFFIX,jsq.vban.xyz
 
 # 起点站
 HOST-SUFFIX,free.28.al
 
-# Pronemby
-IP-CIDR,195.201.86.86/32
+# feiyue
+HOST-SUFFIX,sfcj.org
+
+# 卷毛鼠
+HOST-SUFFIX,jmsooo.com
+HOST,nano.jmsuper.com
+
+# misty
+HOST-SUFFIX,misty.cx
+
+# ZDZ(Terminus)
+HOST-SUFFIX,emby.wtf
 
 # HOHAI
 DOMAIN-SUFFIX,emby.hohai.eu.org
@@ -56,11 +45,18 @@ DOMAIN-SUFFIX,emby.hohai.eu.org
 # HKA
 HOST-SUFFIX,hka-emby.aliz.work
 
+# emby-prpr
+HOST-SUFFIX,emby.prprcloud.com
+HOST-SUFFIX,neo.iflya321.com
+
+# nijigem(二次元)
+HOST-SUFFIX,nijigem.by
+
 # 105
 HOST-SUFFIX,ciallo.party
 
-# 月饼
-HOST-SUFFIX,emby.my
+# PiliPili
+HOST-SUFFIX,pilipiliultra.com
 
 # 牢大
 HOST-SUFFIX,biliblili.uk
@@ -70,15 +66,8 @@ HOST-SUFFIX,9521732.xyz
 HOST-SUFFIX,embyplus.org
 HOST-SUFFIX.029902.xyz
 
-# SNTP
-HOST-SUFFIX,lite.cn2gias.uk
-
-# feiyue
-HOST-SUFFIX,sfcj.org
-
-# emby-prpr
-HOST-SUFFIX,emby.prprcloud.com
-HOST-SUFFIX,neo.iflya321.com
+# Pronemby
+IP-CIDR,195.201.86.86/32
 
 # MICU
 HOST-SUFFIX,media.micu.hk
