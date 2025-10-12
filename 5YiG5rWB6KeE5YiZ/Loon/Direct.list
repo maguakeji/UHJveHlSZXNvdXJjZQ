@@ -1,7 +1,6 @@
 #======================================#
 # emby直连
-# 更新时间：2025-10-01
-#======================================#
+# 更新时间：2025-10-12
 
 # Facmata
 DOMAIN-SUFFIX,313445.xyz
@@ -11,9 +10,6 @@ DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,cc.embycc.link
 DOMAIN-SUFFIX,carryz.net
 
-# PiliPili
-DOMAIN-SUFFIX,pilipiliultra.com
-
 # GuGu Emby
 DOMAIN-SUFFIX,guguemby.site
 
@@ -22,9 +18,6 @@ DOMAIN-SUFFIX,nanflix.net
 
 # 月饼
 DOMAIN-SUFFIX,a.emby.my
-
-# 见手青
-DOMAIN-SUFFIX,jsq.vban.xyz
 
 # 琴鸟
 DOMAIN-SUFFIX,cdn.lyrebirdemby.com
