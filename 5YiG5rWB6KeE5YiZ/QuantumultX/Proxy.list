@@ -40,7 +40,7 @@ HOST-SUFFIX,misty.cx
 HOST-SUFFIX,emby.wtf
 
 # HOHAI
-DOMAIN-SUFFIX,emby.hohai.eu.org
+HOST-SUFFIX,emby.hohai.eu.org
 
 # HKA
 HOST-SUFFIX,hka-emby.aliz.work
