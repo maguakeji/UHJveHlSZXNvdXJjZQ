@@ -17,7 +17,8 @@ DOMAIN-SUFFIX,guguemby.site
 DOMAIN-SUFFIX,nanflix.net
 
 # 月饼
-DOMAIN-SUFFIX,a.emby.my
+DOMAIN,a.emby.my
+DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
 
 # 琴鸟
 DOMAIN-SUFFIX,cdn.lyrebirdemby.com
@@ -30,6 +31,6 @@ DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
 DOMAIN-SUFFIX,micu.hk
 
 # zoxfree
-HOST,zoxfree.3767483.xyz
+DOMAIN-SUFFIX,zoxfree.3767483.xyz
 
 #======================================#
