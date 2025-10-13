@@ -18,11 +18,11 @@ HOST-SUFFIX,nanflix.net
 
 # 月饼
 HOST-SUFFIX,a.emby.my
-DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
+HOST-SUFFIX,speedtest-peppapig.apple-cdn.net
 
 # 琴鸟
-DOMAIN-SUFFIX,cdn.lyrebirdemby.com
-DOMAIN-SUFFIX,cdn.2580852.xyz
+HOST-SUFFIX,cdn.lyrebirdemby.com
+HOST-SUFFIX,cdn.2580852.xyz
 
 # nya
 HOST-SUFFIX,ap-cn01.emby.bangumi.ca
@@ -31,6 +31,6 @@ HOST-SUFFIX,ap-cn01.emby.bangumi.ca
 HOST-SUFFIX,micu.hk
 
 # zoxfree
-HOST,zoxfree.3767483.xyz
+HOST-SUFFIX,zoxfree.3767483.xyz
 
 #======================================#
