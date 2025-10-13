@@ -18,6 +18,7 @@ HOST-SUFFIX,nanflix.net
 
 # 月饼
 HOST-SUFFIX,a.emby.my
+DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
 
 # 琴鸟
 DOMAIN-SUFFIX,cdn.lyrebirdemby.com
