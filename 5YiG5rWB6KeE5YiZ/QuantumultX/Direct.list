@@ -18,7 +18,7 @@ HOST-SUFFIX,nanflix.net
 
 # 月饼
 HOST-SUFFIX,a.emby.my
-HOST-KEYWORD,speedtest
+HOST-KEYWORD,speedtest-
 
 # 琴鸟
 HOST-SUFFIX,cdn.lyrebirdemby.com
