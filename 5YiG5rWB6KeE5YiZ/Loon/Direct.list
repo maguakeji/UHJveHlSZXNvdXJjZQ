@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,nanflix.net
 
 # 月饼
 DOMAIN,a.emby.my
-DOMAIN-SUFFIX,speedtest-peppapig.apple-cdn.net
+DOMAIN-KEYWORD,speedtest
 
 # 琴鸟
 DOMAIN-SUFFIX,cdn.lyrebirdemby.com
