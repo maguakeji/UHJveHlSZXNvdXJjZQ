@@ -5,7 +5,7 @@
 # Facmata 机场服
 HOST-SUFFIX,313445.xyz
 
-# CC_Emby 可以直连，速度很快
+# CC_Emby 可以直连，起播较慢，速度较快
 HOST,cc.coemn.com
 HOST-SUFFIX,cc.embycc.link
 HOST-SUFFIX,carryz.net
