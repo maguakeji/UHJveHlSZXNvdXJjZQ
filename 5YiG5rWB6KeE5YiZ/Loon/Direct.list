@@ -2,10 +2,10 @@
 # emby直连
 # 更新时间：2025-10-12
 
-# Facmata
+# Facmata 机场服
 DOMAIN-SUFFIX,313445.xyz
 
-# CC_Emby
+# CC_Emby 可以直连，起播较慢，速度较快
 DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,cc.embycc.link
 DOMAIN-SUFFIX,carryz.net
@@ -13,24 +13,24 @@ DOMAIN-SUFFIX,carryz.net
 # GuGu Emby
 DOMAIN-SUFFIX,guguemby.site
 
-# Nanflix
+# Nanflix 可以直连，速度一般，较卡顿
 DOMAIN-SUFFIX,nanflix.net
 
-# 月饼
+# 月饼 可以直连，速度很快
 DOMAIN,a.emby.my
 DOMAIN-KEYWORD,speedtest-
 
-# 琴鸟
+# 琴鸟 可以直连，速度很快
 DOMAIN-SUFFIX,cdn.lyrebirdemby.com
 DOMAIN-SUFFIX,cdn.2580852.xyz
 
-# nya
+# nya 可以直连，速度很快
 DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
 
-# MICU
+# MICU 可以直连，速度很快
 DOMAIN-SUFFIX,micu.hk
 
-# zoxfree
+# zoxfree 可以直连，速度很快
 DOMAIN-SUFFIX,zoxfree.3767483.xyz
 
 #======================================#
