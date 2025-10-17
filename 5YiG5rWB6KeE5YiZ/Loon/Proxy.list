@@ -48,27 +48,21 @@ DOMAIN-SUFFIX,emby.hohai.eu.org
 DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,neo.iflya321.com
 
-# nijigem(二次元)
-DOMAIN-SUFFIX,nijigem.by
-
-# 105
+# 105  需要挂代理，速度较快
 DOMAIN-SUFFIX,ciallo.party
 
-# PiliPili
+# PiliPili 可以直连，速度一般
 DOMAIN-SUFFIX,pilipiliultra.com
 
-# 牢大
+# 牢大  可以直连，速度一般
 DOMAIN-SUFFIX,biliblili.uk
 
-# 纸片人
+# 纸片人 需要挂代理，速度较快
 DOMAIN-SUFFIX,9521732.xyz
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX.029902.xyz
 
-# Pronemby
-IP-CIDR,195.201.86.86/32
-
-# MICU
+# MICU  可以直连，下面是代理地址
 DOMAIN-SUFFIX,media.micu.hk
 
 #======================================#
