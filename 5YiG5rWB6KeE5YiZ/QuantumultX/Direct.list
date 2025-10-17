@@ -2,35 +2,35 @@
 # emby直连
 # 更新时间：2025-10-12
 
-# Facmata
+# Facmata 机场服
 HOST-SUFFIX,313445.xyz
 
-# CC_Emby
+# CC_Emby 可以直连，速度很快
 HOST,cc.coemn.com
 HOST-SUFFIX,cc.embycc.link
 HOST-SUFFIX,carryz.net
 
-# GuGu Emby
+# GuGu Emby 
 HOST-SUFFIX,guguemby.site
 
-# Nanflix
+# Nanflix 可以直连，速度一般，较卡顿
 HOST-SUFFIX,nanflix.net
 
-# 月饼
+# 月饼 可以直连，速度很快
 HOST-SUFFIX,a.emby.my
 HOST-KEYWORD,speedtest-
 
-# 琴鸟
+# 琴鸟 可以直连，速度很快
 HOST-SUFFIX,cdn.lyrebirdemby.com
 HOST-SUFFIX,cdn.2580852.xyz
 
-# nya
+# nya 可以直连，速度很快
 HOST-SUFFIX,ap-cn01.emby.bangumi.ca
 
-# MICU
+# MICU 可以直连，速度很快
 HOST-SUFFIX,micu.hk
 
-# zoxfree
+# zoxfree 可以直连，速度很快
 HOST-SUFFIX,zoxfree.3767483.xyz
 
 #======================================#
