@@ -1,6 +1,6 @@
 #======================================#
 # emby代理
-# 更新时间：2025-10-12
+# 更新时间：2025-10-18
 
 # 月饼  可以直连，速度很快，下面的是登陆地址
 DOMAIN-SUFFIX,emby.my
@@ -59,7 +59,7 @@ DOMAIN-SUFFIX,biliblili.uk
 # 纸片人 需要挂代理，速度较快
 DOMAIN-SUFFIX,9521732.xyz
 DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX.029902.xyz
+DOMAIN-SUFFIX,029902.xyz
 
 # emby-prpr  机场服，需要挂代理，速度一般
 DOMAIN-SUFFIX,emby.prprcloud.com
