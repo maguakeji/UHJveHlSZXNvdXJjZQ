@@ -3,8 +3,9 @@
 "description":"在原作者Softlyx的基础上新增，图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿。", 
 "icons":
     [
-	{"name":"1111", "url":"https://github.com/maguakeji/UHJveHlSZXNvdXJjZQ/blob/0914f1412d998c2ca51fef2ae3263fddba52bad1/tubiao/iocn/1111.png"},
-	{"name":"feiyue", "url":"https://github.com/maguakeji/UHJveHlSZXNvdXJjZQ/blob/0914f1412d998c2ca51fef2ae3263fddba52bad1/tubiao/iocn/feiyue1.png"},
+	{"name":"1111", "url":"https://github.com/baiitang/Sakura/blob/d01ca9d8ab800198697b4d325b049276c6f16e15/Fileball/Yuan/icon/Loser.png"},
+	{"name":"feiyue1", "url":"https://github.com/baiitang/Sakura/blob/d01ca9d8ab800198697b4d325b049276c6f16e15/Fileball/Yuan/icon/Feiyue.png"},
+	{"name":"feiyue2", "url":"https://github.com/baiitang/Sakura/blob/d01ca9d8ab800198697b4d325b049276c6f16e15/Fileball/Yuan/icon/Feiyue3.png"},
     
 	
 	]
