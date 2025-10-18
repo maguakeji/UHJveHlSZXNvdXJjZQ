@@ -2,6 +2,28 @@
 # emby代理
 # 更新时间：2025-10-12
 
+# 月饼  可以直连，速度很快，下面的是登陆地址
+DOMAIN-SUFFIX,emby.my
+
+# 飞跃彩虹  可以直连，速度较快
+DOMAIN-SUFFIX,ch.feiyue.lol
+
+# 起点站 可以直连，速度较快
+DOMAIN-SUFFIX,free.28.al
+
+# MICU  可以直连，下面是代理地址
+DOMAIN-SUFFIX,media.micu.hk
+
+# HOHAI 可以直连，速度较快
+DOMAIN-SUFFIX,emby.hohai.eu.org
+
+# peach 可以直连，但比较卡顿，速度一般
+DOMAIN-SUFFIX,embymv.link
+IP-CIDR,193.123.232.141/32
+
+# 见手青 可以直连，但比较卡顿，速度一般
+DOMAIN-SUFFIX,jsq.vban.xyz
+
 # 垃圾影音(1111) 需要挂代理，速度很快
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,emby.ml
@@ -9,27 +31,8 @@ DOMAIN-SUFFIX,loseremby.org
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xxlb.net
 
-# peach 可以直连，但比较卡顿，速度一般
-DOMAIN-SUFFIX,embymv.link
-IP-CIDR,193.123.232.141/32
-
-# 月饼  可以直连，速度很快，下面的是登陆地址
-DOMAIN-SUFFIX,emby.my
-
 # SNTP 需要挂代理，速度很快
 DOMAIN-SUFFIX,lite.cn2gias.uk
-
-# 见手青 可以直连，但比较卡顿，速度一般
-DOMAIN-SUFFIX,jsq.vban.xyz
-
-# 起点站 可以直连，速度较快
-DOMAIN-SUFFIX,free.28.al
-
-# feiyue  需要挂代理，速度一般
-DOMAIN-SUFFIX,sfcj.org
-
-# 飞跃彩虹  可以直连，速度较快
-DOMAIN-SUFFIX,ch.feiyue.lol
 
 # 卷毛鼠  需要挂代理，速度很快
 DOMAIN-SUFFIX,jmsooo.com
@@ -38,18 +41,14 @@ DOMAIN,nano.jmsuper.com
 # misty  需要挂代理，速度很快
 DOMAIN-SUFFIX,misty.cx
 
-# ZDZ(Terminus)  需要挂代理，速度一般
-DOMAIN-SUFFIX,emby.wtf
-
-# HOHAI 可以直连，速度较快
-DOMAIN-SUFFIX,emby.hohai.eu.org
-
-# emby-prpr  机场服，需要挂代理，速度一般
-DOMAIN-SUFFIX,emby.prprcloud.com
-DOMAIN-SUFFIX,neo.iflya321.com
-
 # 105  需要挂代理，速度较快
 DOMAIN-SUFFIX,ciallo.party
+
+# feiyue  需要挂代理，速度一般
+DOMAIN-SUFFIX,sfcj.org
+
+# ZDZ(Terminus)  需要挂代理，速度一般
+DOMAIN-SUFFIX,emby.wtf
 
 # PiliPili 可以直连，速度一般
 DOMAIN-SUFFIX,pilipiliultra.com
@@ -62,7 +61,8 @@ DOMAIN-SUFFIX,9521732.xyz
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX.029902.xyz
 
-# MICU  可以直连，下面是代理地址
-DOMAIN-SUFFIX,media.micu.hk
+# emby-prpr  机场服，需要挂代理，速度一般
+DOMAIN-SUFFIX,emby.prprcloud.com
+DOMAIN-SUFFIX,neo.iflya321.com
 
 #======================================#
