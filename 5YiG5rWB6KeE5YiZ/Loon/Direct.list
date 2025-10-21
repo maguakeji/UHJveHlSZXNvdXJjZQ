@@ -24,9 +24,6 @@ DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,cc.embycc.link
 DOMAIN-SUFFIX,carryz.net
 
-# Nanflix 可以直连，速度一般，较卡顿
-DOMAIN-SUFFIX,nanflix.net
-
 # Facmata 机场服
 DOMAIN-SUFFIX,313445.xyz
 
