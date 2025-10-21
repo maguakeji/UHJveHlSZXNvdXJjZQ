@@ -24,9 +24,6 @@ HOST,cc.coemn.com
 HOST-SUFFIX,cc.embycc.link
 HOST-SUFFIX,carryz.net
 
-# Nanflix 可以直连，速度一般，较卡顿
-HOST-SUFFIX,nanflix.net
-
 # Facmata 机场服
 HOST-SUFFIX,313445.xyz
 
