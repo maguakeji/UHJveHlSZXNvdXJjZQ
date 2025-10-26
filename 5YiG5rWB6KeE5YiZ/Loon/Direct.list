@@ -10,6 +10,12 @@ DOMAIN-KEYWORD,speedtest-
 DOMAIN-SUFFIX,cdn.lyrebirdemby.com
 DOMAIN-SUFFIX,cdn.2580852.xyz
 
+# 飞跃彩虹  可以直连，速度较快
+DOMAIN-SUFFIX,ch.feiyue.lol
+
+# 起点站 可以直连，速度较快
+DOMAIN-SUFFIX,free.28.al
+
 # HOHAI 可以直连，速度较快
 DOMAIN-SUFFIX,emby.hohai.eu.org
 
