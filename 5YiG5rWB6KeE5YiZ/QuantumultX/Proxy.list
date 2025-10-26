@@ -14,9 +14,6 @@ HOST-SUFFIX,free.28.al
 # MICU 可以直连，下面是代理地址
 HOST-SUFFIX,media.micu.hk
 
-# HOHAI  可以直连，速度较快
-HOST-SUFFIX,emby.hohai.eu.org
-
 # paach 可以直连，但比较卡顿，代理后速度较快
 HOST-SUFFIX,embymv.link
 IP-CIDR,193.123.232.141/32
