@@ -10,6 +10,9 @@ HOST-KEYWORD,speedtest-
 HOST-SUFFIX,cdn.lyrebirdemby.com
 HOST-SUFFIX,cdn.2580852.xyz
 
+# HOHAI  可以直连，速度较快
+HOST-SUFFIX,emby.hohai.eu.org
+
 # zoxfree 可以直连，速度很快
 HOST-SUFFIX,zoxfree.3767483.xyz
 
