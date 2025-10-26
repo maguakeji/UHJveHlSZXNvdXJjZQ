@@ -5,12 +5,6 @@
 # 月饼 可以直连，速度很快，下面的是登陆地址
 HOST-SUFFIX,emby.my
 
-# 飞跃彩虹  可以直连，速度较快
-HOST-SUFFIX,ch.feiyue.lol
-
-# 起点站  可以直连，速度较快
-HOST-SUFFIX,free.28.al
-
 # MICU 可以直连，下面是代理地址
 HOST-SUFFIX,media.micu.hk
 
