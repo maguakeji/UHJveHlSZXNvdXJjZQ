@@ -41,6 +41,9 @@ DOMAIN-SUFFIX,sfcj.org
 # ZDZ(Terminus)  需要挂代理，速度一般
 DOMAIN-SUFFIX,emby.wtf
 
+# embybaba
+DOMAIN-SUFFIX,10520.xyz
+
 # PiliPili 可以直连，速度一般
 DOMAIN-SUFFIX,pilipiliultra.com
 
