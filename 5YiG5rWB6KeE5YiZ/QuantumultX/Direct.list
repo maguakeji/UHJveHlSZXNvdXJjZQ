@@ -22,6 +22,9 @@ HOST-SUFFIX,emby.hohai.eu.org
 # zoxfree 可以直连，速度很快
 HOST-SUFFIX,zoxfree.3767483.xyz
 
+# embydada 可以直连，速度很快
+HOST-SUFFIX,10520.xyz
+
 # MICU 可以直连，速度很快
 HOST-SUFFIX,micu.hk
 
