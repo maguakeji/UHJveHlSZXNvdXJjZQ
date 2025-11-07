@@ -6,7 +6,8 @@
 DOMAIN,a.emby.my
 DOMAIN-KEYWORD,speedtest-
 
-# 西瓜
+# 西瓜，下面是直连线路
+DOMAIN-SUFFIX,cf.xgua.de
 DOMAIN-SUFFIX,emby.chilledmelon.com--全球线路，挂香港节点
 DOMAIN-SUFFIX,mr.chilledmelon.com--负载均衡，挂香港节点
 DOMAIN-SUFFIX,rn.chilledmelon.com--故障转移，美西分离
