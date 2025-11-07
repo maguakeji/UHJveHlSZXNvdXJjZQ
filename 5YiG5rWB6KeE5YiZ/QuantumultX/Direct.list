@@ -6,6 +6,9 @@
 HOST-SUFFIX,a.emby.my
 HOST-KEYWORD,speedtest-
 
+# 西瓜，下面是直连线路
+DOMAIN-SUFFIX,cf.xgua.de
+
 # 琴鸟 可以直连，速度很快
 HOST-SUFFIX,cdn.lyrebirdemby.com
 HOST-SUFFIX,cdn.2580852.xyz
