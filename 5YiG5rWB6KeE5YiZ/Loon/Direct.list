@@ -1,6 +1,6 @@
 #======================================#
 # emby直连
-# 更新时间：2025-10-18
+# 更新时间：2025-11-08
 
 # 月饼 可以直连，速度很快
 DOMAIN,a.emby.my
@@ -8,10 +8,6 @@ DOMAIN-KEYWORD,speedtest-
 
 # 西瓜，下面是直连线路
 DOMAIN-SUFFIX,cf.xgua.de
-
-# 琴鸟 可以直连，速度很快
-DOMAIN-SUFFIX,cdn.lyrebirdemby.com
-DOMAIN-SUFFIX,cdn.2580852.xyz
 
 # 飞跃彩虹  可以直连，速度较快
 DOMAIN-SUFFIX,ch.feiyue.lol
@@ -25,9 +21,6 @@ DOMAIN-SUFFIX,emby.hohai.eu.org
 # zoxfree 可以直连，速度很快
 DOMAIN-SUFFIX,zoxfree.3767483.xyz
 
-# MICU 可以直连，速度很快
-DOMAIN-SUFFIX,micu.hk
-
 # nya 可以直连，速度很快
 DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
 
@@ -38,11 +31,5 @@ DOMAIN-SUFFIX,carryz.net
 
 # embydada 可以直连，速度一般
 DOMAIN-SUFFIX,10520.xyz
-
-# Facmata 机场服
-DOMAIN-SUFFIX,313445.xyz
-
-# GuGu Emby
-DOMAIN-SUFFIX,guguemby.site
 
 #======================================#
