@@ -41,6 +41,9 @@ DOMAIN-SUFFIX,ciallo.party
 # feiyue  需要挂代理，速度一般
 DOMAIN-SUFFIX,sfcj.org
 
+# 惊蛰 可以直连比较卡顿，挂代理后速度可以
+DOMAIN-SUFFIX,emby.jingzhe.pro
+
 # ZDZ(Terminus)  需要挂代理，速度一般
 DOMAIN-SUFFIX,emby.wtf
 
