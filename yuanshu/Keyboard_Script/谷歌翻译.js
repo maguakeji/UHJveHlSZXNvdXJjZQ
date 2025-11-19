@@ -1,45 +1,54 @@
 // author: 叙白
-// name: 谷歌翻译.js
-// date: 2024-09-25
-// 使用： 要翻译成英文或中文，在翻译文本前加“中/英”， 例： 中我要回家，将会翻译成英文 
+// name: 谷歌中英互译.js
+// date: 2024-09-27
 
-async function googleTranslate(target, text) {
+async function googleTranslate(text) {
   try {
-    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=${target}&dt=t&q=${encodeURIComponent(text)}`;
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=auto&dt=t&q=${encodeURIComponent(text)}`;
+		// 第一次调用 googleTranslate 函数，检测并翻译文本
     const resp = await $http({
       url,
+      header: {"Content-Type": "application/json"}
+      });
+
+    if (resp.response.statusCode !== 200) {
+      return "翻译失败";
+    }
+
+    const jsonDict = JSON.parse(resp.data);
+    const detectedLang = jsonDict[2]; // 这个字段包含检测到的源语言
+
+    // 根据检测到的源语言决定目标语言
+    let targetLang = detectedLang === "zh-CN" ? "en" : "zh-CN";
+
+    // 进行第二次翻译，这次使用目标语言
+    const urlWithTarget = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${detectedLang}&tl=${targetLang}&dt=t&q=${encodeURIComponent(text)}`;
+    const respWithTarget = await $http({
+      url: urlWithTarget,
       header: {
         "Content-Type": "application/json",
       }
     });
 
-    if (resp.response.statusCode!== 200) {
+    if (respWithTarget.response.statusCode !== 200) {
       return "翻译失败";
     }
-    const jsonDict = JSON.parse(resp.data);
-    const translatedText = jsonDict[0].map(item => item[0]).join('');
+
+    const translatedText = JSON.parse(respWithTarget.data)[0].map(item => item[0]).join('');
     return translatedText;
 
   } catch (error) {
     $log(error);
+    return "翻译过程中出现错误";
   }
 }
 
 async function output() {
-  var text = $searchText || $pasteboardContent || "d l";
+  var text = $searchText || $pasteboardContent || "你好";
   if (!text) {
     return "请输入要翻译的文本";
   }
-  let target = "";
-  const languageMap = {
-    "中": "zh-CN",
-    "英": "en",
-    "韩": "ko",
-    "日": "ja"
-    // 添加更多语言映射
-  };
-  target = languageMap[text[0]] || "zh";
-  text = text.slice(1);
-  const translatedText = await googleTranslate(target, text);
+  
+  const translatedText = await googleTranslate(text);
   return translatedText;
 }
