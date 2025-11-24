@@ -21,6 +21,9 @@ HOST-SUFFIX,emby.hohai.eu.org
 # zoxfree 可以直连，速度很快
 HOST-SUFFIX,zoxfree.3767483.xyz
 
+# 稳健 可以直连，速度很快
+DOMAIN-SUFFIX,emby.wenjian.de
+
 # nya 可以直连，速度很快
 HOST-SUFFIX,ap-cn01.emby.bangumi.ca
 
