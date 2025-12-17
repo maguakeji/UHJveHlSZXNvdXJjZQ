@@ -1,6 +1,6 @@
 #======================================#
 # emby直连
-# 更新时间：2025-11-08
+# 更新时间：2025-12-17
 
 # 月饼 可以直连，速度很快
 DOMAIN,a.emby.my
@@ -9,17 +9,11 @@ DOMAIN-KEYWORD,speedtest-
 # 西瓜，下面是直连线路
 DOMAIN-SUFFIX,cf.xgua.de
 
-# 飞跃彩虹  可以直连，速度较快
-DOMAIN-SUFFIX,ch.feiyue.lol
-
 # 起点站 可以直连，速度较快
 DOMAIN-SUFFIX,free.28.al
 
 # HOHAI 可以直连，速度较快
 DOMAIN-SUFFIX,emby.hohai.eu.org
-
-# zoxfree 可以直连，速度很快
-DOMAIN-SUFFIX,zoxfree.3767483.xyz
 
 # 稳健 可以直连，速度很快
 DOMAIN-SUFFIX,emby.wenjian.de
