@@ -7,7 +7,9 @@ HOST-SUFFIX,a.emby.my
 HOST-KEYWORD,speedtest-
 
 # 西瓜，下面是直连线路
-HOST-SUFFIX,cf.xgua.de
+HOST-SUFFIX,cf.xgua.de//直连香港
+HOST-SUFFIX,cf.icgua.de:443//直连美西
+HOST-SUFFIX,cf.icegua.de:443//直连东京
 
 # 起点站  可以直连，速度较快
 HOST-SUFFIX,free.28.al
