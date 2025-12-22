@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,emby.my//登陆地址
 DOMAIN-SUFFIX,emby.chilledmelon.com//全球线路，挂香港节点
 DOMAIN-SUFFIX,mr.chilledmelon.com//负载均衡，挂香港节点
 DOMAIN-SUFFIX,rn.chilledmelon.com//故障转移，美西分离
-DOMAIN-SUFFIX,cf.icgua.de//故障转移，CF分离
 
 # peach 可以直连，但比较卡顿，代理后速度较快
 DOMAIN-SUFFIX,embymv.link
