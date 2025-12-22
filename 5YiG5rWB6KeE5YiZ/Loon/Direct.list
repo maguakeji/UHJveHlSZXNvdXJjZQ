@@ -7,7 +7,9 @@ DOMAIN,a.emby.my
 DOMAIN-KEYWORD,speedtest-
 
 # 西瓜，下面是直连线路
-DOMAIN-SUFFIX,cf.xgua.de
+DOMAIN-SUFFIX,cf.xgua.de//直连香港
+DOMAIN-SUFFIX,cf.icgua.de:443//直连美西
+DOMAIN-SUFFIX,cf.icegua.de:443//直连东京
 
 # 起点站 可以直连，速度较快
 DOMAIN-SUFFIX,free.28.al
