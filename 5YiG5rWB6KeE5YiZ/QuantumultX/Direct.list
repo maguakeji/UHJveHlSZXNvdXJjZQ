@@ -2,6 +2,9 @@
 # emby直连
 # 更新时间：2025-12-17
 
+# 反代地址
+HOST-SUFFIX,dolby.dpdns.org
+
 # 月饼 可以直连，速度很快
 HOST-SUFFIX,a.emby.my
 HOST-KEYWORD,speedtest-
