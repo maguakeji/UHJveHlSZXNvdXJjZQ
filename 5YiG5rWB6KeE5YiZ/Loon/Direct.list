@@ -1,34 +1,32 @@
 #======================================#
 # emby直连
-# 更新时间：2025-12-17
+# 更新时间：2026-03-03
 
-# 月饼 可以直连，速度很快
+# 1、月饼 可以直连，速度很快
 DOMAIN,a.emby.my
 DOMAIN-KEYWORD,speedtest-
 
-# 西瓜，下面是直连线路
-DOMAIN-SUFFIX,cf.xgua.de//直连香港
-DOMAIN-SUFFIX,cf.icgua.de:443//直连美西
-DOMAIN-SUFFIX,cf.icegua.de:443//直连东京
+# 2、西瓜，下面是直连线路
+DOMAIN-SUFFIX,cf.xgua.de
 
-# 起点站 可以直连，速度较快
+# 3、起点站 可以直连，速度较快
 DOMAIN-SUFFIX,free.28.al
 
-# HOHAI 可以直连，速度较快
+# 4、HOHAI 可以直连，速度较快
 DOMAIN-SUFFIX,emby.hohai.eu.org
 
-# 稳健 可以直连，速度很快
+# 5、稳健 可以直连，速度很快
 DOMAIN-SUFFIX,emby.wenjian.de
 
-# nya 可以直连，速度很快
+# 6、nya 可以直连，速度很快
 DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
 
-# CC_Emby 可以直连，起播较慢，速度较快
+# 7、CC_Emby 可以直连，起播较慢，速度较快
 DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,cc.embycc.link
 DOMAIN-SUFFIX,carryz.net
 
-# embydada 可以直连，速度一般
+# 8、embydada 可以直连，速度一般
 DOMAIN-SUFFIX,10520.xyz
 
 #======================================#
