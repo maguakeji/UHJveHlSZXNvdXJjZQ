@@ -29,4 +29,7 @@ DOMAIN-SUFFIX,carryz.net
 # 8、embydada 可以直连，速度一般
 DOMAIN-SUFFIX,10520.xyz
 
+# 9、micu 可以直连
+DOMAIN-SUFFIX,micu.hk
+
 #======================================#
