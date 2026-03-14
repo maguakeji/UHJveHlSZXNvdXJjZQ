@@ -28,40 +28,43 @@ DOMAIN-SUFFIX,xxlb.net
 # 6、SNTP 需要挂代理，速度很快
 DOMAIN-SUFFIX,lite.cn2gias.uk
 
-# 7、飞跃彩虹  可以直连，速度较快
+# 7、起点站
+DOMAIN-SUFFIX,freestream.startspoint.com//播放地址
+
+# 8、飞跃彩虹  可以直连，速度较快
 DOMAIN-SUFFIX,ch.feiyue.lol
 
-# 8、卷毛鼠  需要挂代理，速度很快
+# 9、卷毛鼠  需要挂代理，速度很快
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN,nano.jmsuper.com
 
-# 9、feiyue  需要挂代理，速度一般
+# 10、feiyue  需要挂代理，速度一般
 DOMAIN-SUFFIX,sfcj.org
 
-# 10、惊蛰 可以直连比较卡顿，挂代理后速度可以
+# 11、惊蛰 可以直连比较卡顿，挂代理后速度可以
 DOMAIN-SUFFIX,jingzhe.pro
 
-# 11、ZDZ(Terminus)  需要挂代理，速度一般
+# 12、ZDZ(Terminus)  需要挂代理，速度一般
 DOMAIN-SUFFIX,emby.wtf
 
-# 12、PiliPili 可以直连，速度一般
+# 13、PiliPili 可以直连，速度一般
 DOMAIN-SUFFIX,pilipiliultra.com
 
-# 13、牢大  可以直连，速度一般
+# 14、牢大  可以直连，速度一般
 DOMAIN-SUFFIX,biliblili.uk
 
-# 14、纸片人 需要挂代理，速度较快
+# 15、纸片人 需要挂代理，速度较快
 DOMAIN-SUFFIX,9521732.xyz
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,029902.xyz
 
-# 15、105  需要挂代理，速度较快
+# 16、105  需要挂代理，速度较快
 DOMAIN-SUFFIX,ciallo.party
 
-# 16、叶子emby
+# 17、叶子emby
 DOMAIN-SUFFIX,wp.lyezi.cc
 
-# 17、emby-prpr  机场服，需要挂代理，速度一般
+# 18、emby-prpr  机场服，需要挂代理，速度一般
 DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,neo.iflya321.com
 
