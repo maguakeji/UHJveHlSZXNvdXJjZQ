@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,speedtest-
 
 # 2、西瓜，下面是直连线路
 DOMAIN-SUFFIX,cf.xgua.de
+DOMAIN-SUFFIX,play.chilledmelon.com
 
 # 3、起点站 登录地址
 DOMAIN-SUFFIX,free.28.al
