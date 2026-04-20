@@ -4,14 +4,16 @@
 
 # 1、月饼 可以直连，速度很快
 HOST-SUFFIX,a.emby.my
-HOST-KEYWORD,speedtest-
+HOST-KEYWORD,speedtest-//推流地址
 
 # 2、西瓜，下面是直连线路
 HOST-SUFFIX,cf.xgua.de
 HOST-SUFFIX,play.chilledmelon.com
 
 # 3、起点站  可以直连，速度较快
-HOST-SUFFIX,free.28.al
+HOST-SUFFIX,free.28.al//登录地址
+HOST-SUFFIX,freestream.startspoint.com//推流地址
+HOST-SUFFIX,test.startspoint.com//起点公测服
 
 # 4、HOHAI  可以直连，速度较快
 HOST-SUFFIX,emby.hohai.eu.org
@@ -19,18 +21,15 @@ HOST-SUFFIX,emby.hohai.eu.org
 # 5、稳健 可以直连，速度很快
 HOST-SUFFIX,emby.wenjian.de
 
-# 6、nya 可以直连，速度很快
-HOST-SUFFIX,ap-cn01.emby.bangumi.ca
-
-# 7、CC_Emby 可以直连，起播较慢，速度较快
+# 6、CC_Emby 可以直连，起播较慢，速度较快
 HOST,cc.coemn.com
 HOST-SUFFIX,cc.embycc.link
 HOST-SUFFIX,carryz.net
 
-# 8、embybaba 可以直连，速度一般
+# 7、embybaba 可以直连，速度一般
 HOST-SUFFIX,10520.xyz
 
-# 9、micu 可以直连
+# 8、micu 可以直连
 HOST-SUFFIX,micu.hk
 
 #======================================#
