@@ -58,13 +58,10 @@ DOMAIN-SUFFIX,9521732.xyz
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,029902.xyz
 
-# 16、105  需要挂代理，速度较快
-DOMAIN-SUFFIX,ciallo.party
-
-# 17、叶子emby
+# 16、叶子emby
 DOMAIN-SUFFIX,wp.lyezi.cc
 
-# 18、emby-prpr  机场服，需要挂代理，速度一般
+# 17、emby-prpr  机场服，需要挂代理，速度一般
 DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,neo.iflya321.com
 
