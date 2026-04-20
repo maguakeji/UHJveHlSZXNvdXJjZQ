@@ -58,13 +58,10 @@ HOST-SUFFIX,9521732.xyz
 HOST-SUFFIX,embyplus.org
 HOST-SUFFIX,029902.xyz
 
-# 16、105 需要挂代理，速度较快
-HOST-SUFFIX,ciallo.party
-
-# 17、叶子emby
+# 16、叶子emby
 HOST-SUFFIX,wp.lyezi.cc
 
-# 18、emby-prpr 机场服，需要挂代理，速度一般
+# 17、emby-prpr 机场服，需要挂代理，速度一般
 HOST-SUFFIX,emby.prprcloud.com
 HOST-SUFFIX,neo.iflya321.com
 
