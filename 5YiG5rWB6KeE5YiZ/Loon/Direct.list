@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,play.chilledmelon.com
 
 # 3、起点站
 DOMAIN-SUFFIX,free.28.al//登录地址
-DOMAIN-SUFFIX,freestream.startspoint.com//推流地址
 DOMAIN-SUFFIX,test.startspoint.com//起点公测服
 
 # 4、HOHAI 可以直连，速度较快
