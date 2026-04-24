@@ -1,67 +1,61 @@
 #======================================#
 # emby代理
-# 更新时间：2026-03-03
+# 更新时间：2026-04-24
 
-# 1、月饼 可以直连，速度很快
+# 月饼 可以直连，速度很快
 HOST-SUFFIX,emby.my//登陆地址
 
-# 2、西瓜
+# 西瓜
 HOST-SUFFIX,emby.chilledmelon.com//全球线路，挂香港节点
 HOST-SUFFIX,mr.chilledmelon.com//负载均衡，挂香港节点
 HOST-SUFFIX,rn.chilledmelon.com//故障转移，美西分离
 HOST-SUFFIX,cf.icgua.de//故障转移，CF分离
 
-# 3、paach 可以直连，但比较卡顿，代理后速度较快
+# paach 可以直连，但比较卡顿，代理后速度较快
 HOST-SUFFIX,embymv.link
 IP-CIDR,193.123.232.141/32
 
-# 4、见手青 可以直连，但比较卡顿，速度一般
+# 见手青 可以直连，但比较卡顿，速度一般
 HOST-SUFFIX,jsq.vban.xyz
 
-# 5、垃圾影音(1111) 需要挂代理，速度很快
+# 垃圾影音(1111) 需要挂代理，速度很快
 HOST-SUFFIX,xmsl.org
 HOST-SUFFIX,emby.ml
 HOST-SUFFIX,loseremby.org
 HOST-SUFFIX,emby.moe
 HOST-SUFFIX,xxlb.net
 
-# 6、SNTP  需要挂代理，速度很快
+# SNTP  需要挂代理，速度很快
 HOST-SUFFIX,lite.cn2gias.uk
 
-# 7、起点站
+# 起点站
 HOST-SUFFIX,freestream.startspoint.com//播放地址
 
-# 8、飞跃彩虹  可以直连，速度较快
+# 飞跃彩虹  可以直连，速度较快
 HOST-SUFFIX,ch.feiyue.lol
 
-# 9、卷毛鼠  需要挂代理，速度很快
+# 卷毛鼠  需要挂代理，速度很快
 HOST-SUFFIX,jmsooo.com
 HOST,nano.jmsuper.com
 
-# 10、feiyue 需要挂代理，速度一般
+# feiyue 需要挂代理，速度一般
 HOST-SUFFIX,sfcj.org
 
-# 11、惊蛰 可以直连比较卡顿，挂代理后速度可以
+# 惊蛰 可以直连比较卡顿，挂代理后速度可以
 DOMAIN-SUFFIX,jingzhe.pro
 
-# 12、ZDZ(Terminus) 需要挂代理，速度一般
+# ZDZ(Terminus) 需要挂代理，速度一般
 HOST-SUFFIX,emby.wtf
 
-# 13、PiliPili  可以直连，速度一般
-HOST-SUFFIX,pilipiliultra.com
-
-# 14、牢大  可以直连，速度一般
-HOST-SUFFIX,biliblili.uk
-
-# 15、纸片人  需要挂代理，速度较快
+# 纸片人  需要挂代理，速度较快
 HOST-SUFFIX,9521732.xyz
 HOST-SUFFIX,embyplus.org
 HOST-SUFFIX,029902.xyz
 
-# 16、叶子emby
+# 叶子emby
 HOST-SUFFIX,wp.lyezi.cc
 
-# 17、emby-prpr 机场服，需要挂代理，速度一般
+# emby-prpr 机场服，需要挂代理，速度一般
 HOST-SUFFIX,emby.prprcloud.com
 HOST-SUFFIX,neo.iflya321.com
 
