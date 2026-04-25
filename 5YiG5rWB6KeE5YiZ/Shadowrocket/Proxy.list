@@ -55,6 +55,9 @@ DOMAIN-SUFFIX,029902.xyz
 # 叶子emby
 DOMAIN-SUFFIX,wp.lyezi.cc
 
+# ok
+DOMAIN-SUFFIX,okemby.org
+
 # emby-prpr  机场服，需要挂代理，速度一般
 DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,neo.iflya321.com
