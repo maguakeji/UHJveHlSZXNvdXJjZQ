@@ -4,15 +4,15 @@
 
 # 月饼 可以直连，速度很快
 DOMAIN,a.emby.my
-DOMAIN-KEYWORD,speedtest-//推流地址
+DOMAIN-KEYWORD,speedtest-                                     //推流地址
 
 # 西瓜，下面是直连线路
 DOMAIN-SUFFIX,cf.xgua.de
 DOMAIN-SUFFIX,play.chilledmelon.com
 
 # 起点站
-DOMAIN-SUFFIX,free.28.al//登录地址
-DOMAIN-SUFFIX,test.startspoint.com//起点公测服
+DOMAIN-SUFFIX,free.28.al                                      //登录地址
+DOMAIN-SUFFIX,test.startspoint.com                            //起点公测服
 
 # HOHAI 可以直连，速度较快，网盘服（老公益服）
 DOMAIN-SUFFIX,emby.hohai.eu.org
