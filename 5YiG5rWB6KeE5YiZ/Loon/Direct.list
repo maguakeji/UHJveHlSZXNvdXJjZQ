@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,emby.hohai.eu.org
 DOMAIN-SUFFIX,emby.wenjian.de
 
 # CC_Emby 可以直连，起播较慢，速度较快
-DOMAIN,cc.coemn.com
+DOMAIN-SUFFIX,cc.coemn.com
 DOMAIN-SUFFIX,cc.embycc.link
 DOMAIN-SUFFIX,carryz.net
 
