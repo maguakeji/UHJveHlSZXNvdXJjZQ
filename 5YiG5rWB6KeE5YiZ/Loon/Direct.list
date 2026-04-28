@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,play.chilledmelon.com
 
 # 起点站
 DOMAIN-SUFFIX,free.28.al                               //登录地址
-DOMAIN-SUFFIX,test.startspoint.com                     //起点公测服
+DOMAIN-SUFFIX,test.startspoint.com                     //起点公测服地址
 
 # HOHAI 可以直连，速度较快，网盘服（老公益服）
 DOMAIN-SUFFIX,emby.hohai.eu.org
@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,carryz.net
 
 # embydada 可以直连，速度一般
 DOMAIN-SUFFIX,10520.xyz
+DOMAIN-SUFFIX,101514.xyz
 
 # 乐队 可以直连，速度较快，启播较慢
 DOMAIN-SUFFIX,biliblili.uk
