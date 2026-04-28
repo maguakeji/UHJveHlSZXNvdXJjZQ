@@ -3,7 +3,7 @@
 # 更新时间：2026-04-24
 
 # 月饼  可以直连，速度很快
-DOMAIN-SUFFIX,emby.my//登陆地址
+DOMAIN-SUFFIX,emby.my                                      //登陆地址
 
 # 西瓜
 DOMAIN-SUFFIX,emby.chilledmelon.com                        //全球线路，挂香港节点
@@ -56,7 +56,8 @@ DOMAIN-SUFFIX,029902.xyz
 DOMAIN-SUFFIX,wp.lyezi.cc
 
 # ok
-DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,link00.okemby.org
+DOMAIN-SUFFIX,link01.okemby.org
 
 # emby-prpr  机场服，需要挂代理，速度一般
 DOMAIN-SUFFIX,emby.prprcloud.com
