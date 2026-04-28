@@ -12,7 +12,7 @@ HOST-SUFFIX,play.chilledmelon.com
 
 # 起点站  可以直连，速度较快
 HOST-SUFFIX,free.28.al                                  //登录地址
-HOST-SUFFIX,test.startspoint.com                        //起点公测服
+HOST-SUFFIX,test.startspoint.com                        //起点公测服地址
 
 # HOHAI  可以直连，速度较快，网盘服（老公益服）
 HOST-SUFFIX,emby.hohai.eu.org
@@ -21,12 +21,13 @@ HOST-SUFFIX,emby.hohai.eu.org
 HOST-SUFFIX,emby.wenjian.de
 
 # CC_Emby 可以直连，起播较慢，速度较快
-HOST,cc.coemn.com
+HOST-SUFFIX,cc.coemn.com
 HOST-SUFFIX,cc.embycc.link
 HOST-SUFFIX,carryz.net
 
 # embybaba 可以直连，速度一般
 HOST-SUFFIX,10520.xyz
+HOST-SUFFIX,101514.xyz
 
 # 乐队 可以直连，速度较快，起播较慢
 HOST-SUFFIX,biliblili.uk
