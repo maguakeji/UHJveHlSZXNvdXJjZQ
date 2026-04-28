@@ -56,7 +56,8 @@ HOST-SUFFIX,029902.xyz
 HOST-SUFFIX,wp.lyezi.cc
 
 # ok
-HOST-SUFFIX,okemby.org
+HOST-SUFFIX,link00.okemby.org
+HOST-SUFFIX,link01.okemby.org
 
 # emby-prpr 机场服，需要挂代理，速度一般
 HOST-SUFFIX,emby.prprcloud.com
