@@ -3,7 +3,7 @@
 # 更新时间：2026-04-24
 
 # 月饼 可以直连，速度很快
-HOST-SUFFIX,emby.my//登陆地址
+HOST-SUFFIX,emby.my                                                   //登陆地址
 
 # 西瓜
 HOST-SUFFIX,emby.chilledmelon.com                                     //全球线路，挂香港节点
