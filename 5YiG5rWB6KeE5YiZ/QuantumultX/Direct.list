@@ -18,7 +18,7 @@ HOST-SUFFIX,test.startspoint.com                        //起点公测服地址
 HOST-SUFFIX,emby.hohai.eu.org
 
 # 稳健 可以直连，速度很快
-HOST-SUFFIX,emby.wenjian.de
+HOST-SUFFIX,m.wenjian.de
 
 # CC_Emby 可以直连，起播较慢，速度较快
 HOST-SUFFIX,cc.coemn.com
